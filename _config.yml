@@ -29,7 +29,7 @@ github_username: roby210
 markdown:         kramdown
 highlighter:      rouge
 # Build settings
-theme: jekyll-theme-hydeout
+theme: minima
 plugins:
   - jekyll-feed
 
